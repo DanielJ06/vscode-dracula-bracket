@@ -38,10 +38,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------- |
 | [Zeno Rocha](https://github.com/zenorocha)                                               |
 
-| [![Daniel J Rodrigues](https://github.com/DanielJ06.png?size=100)](https://github.com/DanielJ06) |
-| ------------------------------------------------------------------------------------------------ |
-| [Daniel J Rodrigues](https://github.com/DanielJ06)                                               |
-
+| [![Daniel J.](https://github.com/DanielJ06.png?size=100)](https://github.com/DanielJ06) |
+| --------------------------------------------------------------------------------------- |
+| [Daniel J.](https://github.com/DanielJ06)                                               |
+  
 ## License
 
 [MIT License](./LICENSE)
